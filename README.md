@@ -1,9 +1,9 @@
 # Snake-Bite
 it is command line based simple game designed in c programming language
 
-*Use createmetadata.c for creating new maps\n
-*Use displaymap.c to view already create map\n
-*Use readmetadata.c to read sparse matrix of map\n
+#Use createmetadata.c for creating new maps\n
+#Use displaymap.c to view already create map\n
+#Use readmetadata.c to read sparse matrix of map\n
 
 
 To play the game:
